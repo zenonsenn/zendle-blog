@@ -41,3 +41,10 @@ Special thanks to @MintCashew, @PCAnimal\_, @horridkawa (Twitter), and friends f
 -   Time attack mode
 -   Scoring calculation blog
 -   Open source the codebase
+
+# Contact
+
+If you have any thoughts, suggestions, bug-reports, and alike, you can reach me out on Twitter (@zenonsenn) or Discord!
+
+\
+I may not be able to respond properly if you reach me through other means.
