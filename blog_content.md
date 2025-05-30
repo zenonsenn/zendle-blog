@@ -27,6 +27,7 @@ Special thanks to @MintCashew, @PCAnimal\_, @horridkawa (Twitter), and friends f
 ## alpha-2.1
 
 -   Fixed "Read the blog" footer not showing in mobile version
+-   Make mobile UI a bit more readable
 -   Removed the X...X -> X\_... format because it's not optimised for smaller screen sizes; changed it to a "previous-word, suggestion, answer-field" format
 -   Added one more informational text
 -   Fixed issue where the screen gets cluttered with informational text if the player answers incorrectly
