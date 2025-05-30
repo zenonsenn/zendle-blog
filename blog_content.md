@@ -39,6 +39,11 @@ Special thanks to @MintCashew, @PCAnimal\_, @horridkawa (Twitter), and friends f
 -   History is preserved until the first word played after restart
 -   History is available for Lexicomaxxer
 
+## alpha-3
+
+-   New validation dictionary!!! I'm using enwiktionary dumps. Almost all English words should be there. If you still think a word should be accepted, reporting it will only be possible after I open-sourced the code; for now it is what it is.
+-   Fixed a bug where answering corretly after an invalid word still shows the invalid word in the previous word display
+
 # Ongoing
 
 -   Adding words that are valid but not registered in the dictionary or finding/creating a new dictionary
