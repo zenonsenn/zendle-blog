@@ -46,6 +46,10 @@ Special thanks to @MintCashew, @PCAnimal\_, @horridkawa (Twitter), and friends f
 -   Fixed a bug where answering corretly after an invalid word still shows the invalid word in the previous word display
 -   Bugfixes
 
+## alpha-2.1.2b
+
+-   Fixed a bug where the word suggestion still returns words found earliest in the dictionary
+
 # Ongoing
 
 -   ~~Adding words that are valid but not registered in the dictionary or finding/creating a new dictionary~~ Using enwiktionary data to create Zendle Unlimited where almost all English words exist
