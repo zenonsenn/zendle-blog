@@ -34,6 +34,11 @@ Special thanks to @MintCashew, @PCAnimal\_, @horridkawa (Twitter), and friends f
 -   Words now wrap the playing screen when it's long
 -   Renamed versions
 
+## alpha-2.1.1
+
+-   History is preserved until the first word played after restart
+-   History is available for Lexicomaxxer
+
 # Ongoing
 
 -   Adding words that are valid but not registered in the dictionary or finding/creating a new dictionary
