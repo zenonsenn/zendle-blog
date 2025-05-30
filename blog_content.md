@@ -27,7 +27,7 @@ Special thanks to @MintCashew, @PCAnimal\_, @horridkawa (Twitter), and friends f
 ## alpha-2.1
 
 -   Fixed "Read the blog" footer not showing in mobile version
--   Make mobile UI a bit more readable
+-   Made mobile UI a bit more readable
 -   Removed the X...X -> X\_... format because it's not optimised for smaller screen sizes; changed it to a "previous-word, suggestion, answer-field" format
 -   Added one more informational text
 -   Fixed issue where the screen gets cluttered with informational text if the player answers incorrectly
@@ -39,14 +39,16 @@ Special thanks to @MintCashew, @PCAnimal\_, @horridkawa (Twitter), and friends f
 -   History is preserved until the first word played after restart
 -   History is available for Lexicomaxxer
 
-## alpha-3
+## alpha-2.1.2
 
--   New validation dictionary!!! I'm using enwiktionary dumps. Almost all English words should be there. If you still think a word should be accepted, reporting it will only be possible after I open-sourced the code; for now it is what it is.
+-   Updated validation dictionary
+-   Made the word suggestion method "smarter" by randomising the second letter so that the suggestions are more varied
 -   Fixed a bug where answering corretly after an invalid word still shows the invalid word in the previous word display
+-   Bugfixes
 
 # Ongoing
 
--   Adding words that are valid but not registered in the dictionary or finding/creating a new dictionary
+-   ~~Adding words that are valid but not registered in the dictionary or finding/creating a new dictionary~~ Using enwiktionary data to create Zendle Unlimited where almost all English words exist
 -   Set up a method to allow the player to suggest a word to be added in the dictionary (via Github Issues)
 -   Time attack mode
 -   Scoring calculation blog
