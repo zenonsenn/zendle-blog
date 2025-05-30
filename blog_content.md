@@ -1,4 +1,4 @@
-# About Game
+# About Zendle
 
 Zendle is a finite word game where the only limit is the validation dictionary. The purpose of this game is to provide a stress-free version of Wordle; why stress over getting it in 6 when you can get it eventually?
 
