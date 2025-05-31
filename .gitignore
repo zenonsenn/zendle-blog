@@ -1,4 +1,4 @@
 .env
-cleanlist.txt
-/tmp
-/tmp/*
+notebooks/cleanlist.txt
+tmp/
+tmp/*
