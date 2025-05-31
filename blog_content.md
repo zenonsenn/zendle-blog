@@ -5,6 +5,27 @@ Zendle is a finite word game where the only limit is the validation dictionary. 
 \
 The game starts with you, the player, submitting any valid English word of your desire (no single letter words). The last letter of that word will be the first letter of the next word for you to guess! Zendle allows you to stray away from what it wants you to do, but there would be penalties. However, you do not need to worry; anything goes as long as the word is valid!
 
+# New in Zendle
+
+## alpha-2.2
+
+-   New validation dictionary!!! I downloaded raw wiktionary data from [kaikki](https://kaikki.org/dictionary/rawdata.html) and only took the English words
+
+## About words
+
+There are two perspectives on this matter: those who think that playing plural form, compound words, or abbrevations is essential for this kind of game (some said it's "Scrabble with less steps") and those who think otherwise.
+
+\
+My stance is **play whatever word you think it's valid.** The premise of this game is to be _permissive_ so that you'd only think about what word fits the winning criteria and if it's spelt correctly.
+
+\
+If you think the plural form of a word shouldn't exist e.g. "environmentals", then don't play it (or bear your own risk by playing it) even if it exists in the validation dictionary. The validation dictionary's main goal is to be _permissive_ and only be there if you misspelt a word. Another example is abbreviations and numericals. They are inside the validation dictionary, but I can't guarantee its completeness. It's in your best interest to use it to your own advantage (risk if it exist or not) or not play it; **play whatever word you think it's valid.** Also, slang exists, but again, I can't guarantee its completeness.
+
+\
+If you argue about fairness and balancedness, to me, as long as the game doesn't have a global leaderboard, it shouldn't be an issue.
+
+> It is **not** my duty to curate the dictionary, it was [wiktionary](https://www.wiktionary.org/)'s. I'm here to provide a fun interface for the dictionary.
+
 # Changelog
 
 Special thanks to @MintCashew, @PCAnimal\_, @horridkawa (Twitter), and friends for play-testing and making me realise what words start with X that is 6 letters long...
@@ -59,9 +80,12 @@ Special thanks to @MintCashew, @PCAnimal\_, @horridkawa (Twitter), and friends f
 
 -   Made jupyter notebooks public
 
+## alpha-2.2
+
+-   New validation dictionary!!! I downloaded raw wiktionary data from [kaikki](https://kaikki.org/dictionary/rawdata.html) and only took the English words
+
 # Ongoing
 
--   ~~Adding words that are valid but not registered in the dictionary or finding/creating a new dictionary~~ Using enwiktionary data to create Zendle Unlimited where almost all English words exist
 -   Set up a method to allow the player to suggest a word to be added in the dictionary (via Github Issues)
 -   Time attack mode
 -   Scoring calculation blog
