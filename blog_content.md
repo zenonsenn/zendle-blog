@@ -11,7 +11,7 @@ The game starts with you, the player, submitting any valid English word of your 
 
 -   New validation dictionary!!! I downloaded raw wiktionary data from [kaikki](https://kaikki.org/dictionary/rawdata.html) and only took the English words
 
-## About words
+# Fore*word*
 
 There are two perspectives on this matter: those who think that playing plural form, compound words, or abbrevations is essential for this kind of game (some said it's "Scrabble with less steps") and those who think otherwise.
 
