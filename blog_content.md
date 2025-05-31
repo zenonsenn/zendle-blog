@@ -55,6 +55,10 @@ Special thanks to @MintCashew, @PCAnimal\_, @horridkawa (Twitter), and friends f
 -   Fixed a bug where the word suggestion returns duplicate words
 -   Increased how many times the word suggestion search attempts to find words
 
+## alpha-2.1.2c-transition
+
+-   Made jupyter notebooks public
+
 # Ongoing
 
 -   ~~Adding words that are valid but not registered in the dictionary or finding/creating a new dictionary~~ Using enwiktionary data to create Zendle Unlimited where almost all English words exist
