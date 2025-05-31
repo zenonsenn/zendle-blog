@@ -7,9 +7,13 @@ The game starts with you, the player, submitting any valid English word of your 
 
 # New in Zendle
 
-## alpha-2.2
+## alpha-2.3
 
--   New validation dictionary!!! I downloaded raw wiktionary data from [kaikki](https://kaikki.org/dictionary/rawdata.html) and only took the English words
+-   Added visual guide if the first letter or the length is different
+-   Made cookies persistent by using local storage
+-   Updated cookies messages to now show that actual data instead of cookies is now stored locally
+-   Added toggle keyboard button to save screen real estate
+-   Added copy answer history to clipboard and export as .txt file
 
 # Fore*word*
 
@@ -83,6 +87,14 @@ Special thanks to @MintCashew, @PCAnimal\_, @horridkawa (Twitter), and friends f
 ## alpha-2.2
 
 -   New validation dictionary!!! I downloaded raw wiktionary data from [kaikki](https://kaikki.org/dictionary/rawdata.html) and only took the English words
+
+## alpha-2.3
+
+-   Added visual guide if the first letter or the length is different
+-   Made cookies persistent by using local storage
+-   Updated cookies messages to now show that actual data instead of cookies is now stored locally
+-   Added toggle keyboard button to save screen real estate
+-   Added copy answer history to clipboard and export as .txt file
 
 # Ongoing
 
