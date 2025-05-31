@@ -18,6 +18,10 @@ The game starts with you, the player, submitting any valid English word of your 
 -   Added toggle keyboard button to save screen real estate
 -   Added copy answer history to clipboard and export as .txt file
 
+## alpha-2.3b
+
+-   Made file name of the exported answers include the difficulty it was on
+
 # Fore*word*
 
 There are two perspectives on this matter: those who think that playing plural form, compound words, or abbrevations is essential for this kind of game (some said it's "Scrabble with less steps") and those who think otherwise.
@@ -99,6 +103,10 @@ Special thanks to @MintCashew, @PCAnimal\_, @horridkawa (Twitter), and friends f
 -   Your high scores now are grouped based on difficulty and not globally
 -   Added toggle keyboard button to save screen real estate
 -   Added copy answer history to clipboard and export as .txt file
+
+## alpha-2.3b
+
+-   Made file name of the exported answers include the difficulty it was on
 
 # Ongoing
 
