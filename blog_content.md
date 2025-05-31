@@ -9,9 +9,12 @@ The game starts with you, the player, submitting any valid English word of your 
 
 ## alpha-2.3
 
+**Because I switched from using cookies to local browser storage, your previous high scores are sadly deleted and/or not able to be read again. I'm sorry for this inconvenience.**
+
 -   Added visual guide if the first letter or the length is different
 -   Made cookies persistent by using local storage
 -   Updated cookies messages to now show that actual data instead of cookies is now stored locally
+-   Your high scores now are grouped based on difficulty and not globally
 -   Added toggle keyboard button to save screen real estate
 -   Added copy answer history to clipboard and export as .txt file
 
@@ -93,6 +96,7 @@ Special thanks to @MintCashew, @PCAnimal\_, @horridkawa (Twitter), and friends f
 -   Added visual guide if the first letter or the length is different
 -   Made cookies persistent by using local storage
 -   Updated cookies messages to now show that actual data instead of cookies is now stored locally
+-   Your high scores now are grouped based on difficulty and not globally
 -   Added toggle keyboard button to save screen real estate
 -   Added copy answer history to clipboard and export as .txt file
 
